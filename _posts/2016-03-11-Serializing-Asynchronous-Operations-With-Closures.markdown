@@ -14,12 +14,12 @@ task completes. For example:
         MyHTTPAPI.sendRequest({ response in
         
             if response.statusCode == 200 {
-				// SUCCESS
-                	completion(error:nil)
+                // SUCCESS
+                completion(error:nil)
             }
             else{
 				// FAILURE:
-                	completion(error: response.error!)
+                completion(error: response.error!)
             }
         })
     }
