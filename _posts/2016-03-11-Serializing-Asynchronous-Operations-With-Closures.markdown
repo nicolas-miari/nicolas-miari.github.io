@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello World!"
+title:  "Serializing Asunchronous Operations Using Closures and Private Fucntions"
 date:   2015-12-01 14:47:37 +0900
 categories: personal 
 ---
