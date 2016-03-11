@@ -11,7 +11,7 @@ task completes. For example:
 
     func downloadFile(fromURL url:NSURL, completion:((error:NSError?)->()))
     {
-        MyHTTPAPI.sendRequest({ response in
+        MyHTTPLibrary.sendHTTPRequest({ response in
         
             if response.statusCode == 200 {
                 // SUCCESS
