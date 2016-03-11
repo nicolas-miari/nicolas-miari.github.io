@@ -97,11 +97,11 @@ all our downloads. However, with a clever trick we can accomplish this:
 The code runs as follows:
 
 1. We make a mutable copy of the URL array.
-2. Call downloadNext() for the first time: the array is not empty. We remove first URL and send an asynchronous request to it.
+2. Call `downloadNext()` for the first time: the array is not empty. We remove first URL and send an asynchronous request to it.
 3. Return from `downloadNext()` right away.
 4. Return from `downloadFiles()` right away.
 5. ...
-6. On request completion, downloadNext() calls itself -this time, with the diminished URL array- and the
-cycle goes on, until the array is empty and `downloadNext()`, bail out to success.
+6. On request completion, `downloadNext()` calls itself -this time, with the diminished URL array- and the
+cycle goes on, until the array is empty and `downloadNext()` bails out to success.
 
-All in all, downloadNext() is called N+1 times to perform N requests (the last time finds the URL array emoty and bails out).
+All in all, `downloadNext()` is called N+1 times to perform N requests (the last time finds the URL array emoty and bails out).
