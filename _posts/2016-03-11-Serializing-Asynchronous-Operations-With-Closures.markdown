@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Serializing Asunchronous Operations Using Closures and Private Fucntions"
+title:  "Serializing Asunchronous Operations Using Closures and Private Functions"
 date:   2015-12-01 14:47:37 +0900
 categories: personal 
 ---
