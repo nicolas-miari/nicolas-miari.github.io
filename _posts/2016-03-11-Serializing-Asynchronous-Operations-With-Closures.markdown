@@ -62,35 +62,35 @@ all our downloads. However, with a clever trick we can accomplish this:
 
 	func downloadFiles(fromURLs urls:[NSURL], completion:((error:NSError?)->()))
     {
-		// [1] Define recursion:
+        // [1] Define recursion:
 
-		var mutableURLs = urls
+        var mutableURLs = urls
 
-		func downloadNext() 
-		{
-			if mutableURLs.count == 0 {
-				// Terminating condition
-				return completion(error:nil)
-			}
+        func downloadNext() 
+        {
+            if mutableURLs.count == 0 {
+                // Terminating condition
+                return completion(error:nil)
+            }
 
-			let url = urls.removeFirst()
+            let url = urls.removeFirst()
 
-			self.downloadFile(fromURL:url, completion:{error in 
-				guard error == nil else {
-					// Failure; abort:
-					completion(error:error)
-					return
-				}
+            self.downloadFile(fromURL:url, completion:{error in 
+                guard error == nil else {
+                    // Failure; abort:
+                    completion(error:error)
+                    return
+                }
 
-				// Success; recurse:
-				donwloadNext()
-			})
-		}
+                // Success; recurse:
+                donwloadNext()
+            })
+        }
 
 
-		// [2] Kickstart recursion :
+        // [2] Kickstart recursion :
 
-		donwloadNext()
+        donwloadNext()
     }
   
 
