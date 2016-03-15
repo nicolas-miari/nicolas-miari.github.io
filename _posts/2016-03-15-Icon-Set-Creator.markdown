@@ -7,7 +7,7 @@ categories: apps
 
 ![App Icon](/assets/images/IconSetCreator-512.png)
 
-Thank you to the 14k+ people who downloaded Icon Set Creator since its initial 
+Thank you to the 14k+ people who downloaded [Icon Set Creator][AppStore-link] since its initial 
 release on January, 2015!
 
 I have just submitted the latest version (1.1.2) to the Mac App Store for review.
@@ -18,3 +18,5 @@ New features include:
 - Dark mode!
 
 Stay tuned for the imminent release.
+
+[AppStore-link]: https://itunes.apple.com/us/app/icon-set-creator/id939343785?mt=12
