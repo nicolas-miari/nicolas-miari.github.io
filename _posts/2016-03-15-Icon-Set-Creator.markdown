@@ -5,7 +5,7 @@ date:   2016-03-15 17:00:00 +0900
 categories: apps 
 ---
 
-![App Icon](/assets/images/IconSetCreator-512.png)
+![App Icon](/assets/images/IconSetCreator-512.png){: .center-image }
 
 Thank you to the 14k+ people who downloaded [Icon Set Creator][AppStore-link] since its initial 
 release on January, 2015!
