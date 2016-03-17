@@ -9,7 +9,7 @@ Every now and then I need to post an image highlighting a certain subregion of
 it. For example, a UI element that the reader should tap/click, an area of 
 interest, etc., like this one:
 
-    ![05](/assets/images/highlighting/r05@2x.png){: .center-image }
+![05](/assets/images/highlighting/r05@2x.png){: .center-image }
 
 _(I want to show the user where the "Visible at launch" checkbox is)_
 
