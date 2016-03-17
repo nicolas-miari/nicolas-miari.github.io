@@ -55,14 +55,19 @@ semitransparent by setting the opacity to -say- 50 percent:
 
 ![01](/assets/images/highlighting/r02@2x.png){: .center-image }
 
-5. Apply the gaussian blur filter to the semitransparent layer, to soften the
-edges of the selected region and create a "spotlight" effect:
+5. Select the area of interest that you wish to highlight, and hit "delete":
 
 ![01](/assets/images/highlighting/r03@2x.png){: .center-image }
 
-6. Restore the canvas to its original size:
+
+6. Apply the gaussian blur filter to the semitransparent layer, to soften the
+edges of the selected region and create a "spotlight" effect:
 
 ![01](/assets/images/highlighting/r04@2x.png){: .center-image }
+
+7. Restore the canvas to its original size:
+
+![01](/assets/images/highlighting/r05@2x.png){: .center-image }
 
 As you can see, now the resulting image looks as expected (only the "hole" in the
 dimming layer has soft edges).
