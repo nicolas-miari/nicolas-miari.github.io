@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Highlighting a Region iof an Image"
+title:  "Highlighting a Region of an Image"
 date:   2016-03-17 14:10:00 +0900
 categories: apps 
 ---
