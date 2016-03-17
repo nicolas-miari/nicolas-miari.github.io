@@ -13,8 +13,8 @@ element that the reader should tap/click, an area of interest, etc., like this o
 
 The way I end up making such images is as follows:
 
-1. Capture the screen (e.g. using [Grab][Grab-link]).
-2. Open the captured region in an image editor (say, Pixelmator):
+1. Capture the screen (e.g. using [Grab][Grab-Link]).
+2. Open the captured region in an image editor (say, [Pixelmator][Pixelmator-Link]):
 
 ![01](/assets/images/highlighting/original@2x.png){: .center-image }
 
@@ -78,4 +78,4 @@ Admittedly, it is quite a pain to do this each time. That is why I am making a
 small utility app that performs all these steps for you; stay tuned!
 
 [Grab-Link]: https://en.wikipedia.org/wiki/Grab_(software)
-
+[Pixelmator-Link]: http://www.pixelmator.com/mac/
