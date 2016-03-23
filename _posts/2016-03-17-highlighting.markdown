@@ -89,8 +89,10 @@ edges of the selected region and create a "spotlight" effect:
 As you can see, now the resulting image looks as expected (only the "hole" in the
 dimming layer has soft edges).
 
-Admittedly, it is quite a pain to do this each time. That is why I am making a
-small utility app that performs all these steps for you; stay tuned!
+Admittedly, it is quite a pain to do this each time. That is why [I am making a
+small utility app that performs all these steps for you][HighlighterPost-Link]; stay tuned!
 
 [Grab-Link]: https://en.wikipedia.org/wiki/Grab_(software)
 [Pixelmator-Link]: http://www.pixelmator.com/mac/
+[HighlighterPost-Link]: http://nicolasmiari.com/apps/2016/03/23/Highlighter.html
+
