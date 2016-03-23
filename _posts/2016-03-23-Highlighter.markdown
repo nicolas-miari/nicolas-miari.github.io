@@ -12,6 +12,9 @@ a screen capture image, like this:
 
 ![Example](/assets/images/highlighter_example@2x.png){: .center-image }
 
+_(It would be substantially easier if you give up the fuzzy edges around the 
+highlighted region, but you still need to 1. Add a new layer, 2. Paint it black,
+3. Make it semi-opaque, 4. Select a rectangle and cut it out.)_
 
 So I decided to make a small app that performs all this image processing (overlay 
 a semitransparent dimming layer, and cut a hole in it with blurred edges) with 
