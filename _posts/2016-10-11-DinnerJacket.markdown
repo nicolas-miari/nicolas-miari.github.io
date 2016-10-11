@@ -8,7 +8,7 @@ categories: development
 ![Frameworks Icon](/assets/images/FrameworkIcon.png){: .center-image }
 
 
-There's recently a trend in naming shared libraries and frameworks with fancy names that have nothing to do with the software's functionality; for example take Alamofire, Freddy, and Starscream, to name a few in the cocoasphere.
+There's recently a trend in naming shared libraries and frameworks with fancy names that have nothing to do with the software's functionality; for example take [Alamofire](https://github.com/Alamofire/Alamofire), [Freddy](https://github.com/bignerdranch/Freddy)[^1], and [Starscream](https://github.com/daltoniam/starscream), to name a few ones that are prominent in the "cocoasphere".
 
 I started developing my own sprite library for iOS back in 2010, and although I do not work on it very often, I keep improving it and over the years, it has gone through several incarnations (and names). 
 
@@ -35,3 +35,5 @@ But after that is done, I will port the framework to the Metal API, and at the s
 
 Rest assured, the modernized version already exists as a stub on a private Github repository, and it is called MetalJacket.
 
+
+[^1]: To be fair, this one is sort of a pun.
