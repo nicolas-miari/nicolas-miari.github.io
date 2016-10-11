@@ -5,7 +5,7 @@ date:   2016-10-11 19:33:00 +0900
 categories: development 
 ---
 
-![Frameworks Icon](/assets/images/FrameworkIcon.png.png){: .center-image }
+![Frameworks Icon](/assets/images/FrameworkIcon.png){: .center-image }
 
 
 There's recently a trend in naming shared libraries and frameworks with fancy names that have nothing to do with the software's functionality; for example take Alamofire, Freddy, and Starscream, to name a few in the cocoasphere.
