@@ -16,8 +16,8 @@ Back then, I had just finished my first iPhone game, using the popular open-sour
 The game was simple 3D puzzler, but the 3D requirements were so few that I just needed to write some OpenGL ES 1.1 code to extend the library's functionality. 
 
 Cocos2d is a great library and very easy to use. But there were a few things that bugged me about it. At that moment, Apple and other smartphone manufacturers were transitioning to GPUs with a programmable pipeline (shaders), but the current version of Cocos2d was stuck in the older, fixed-pipeline version of OpenGL ES (1.1).
-Although the geometry of my game was minimal, I still wanted to be able to experiment with fancy visual effects to
-enhance the user experience. The 2.0 API was there for anyone to use, but the library just hadn't had time to make the transition yet.
+Although the geometry of my game was minimal, I still wanted to be able to experiment with fancy visual effects in order to
+enhance the player's experience. The programmable pipeline-ready 2.0 API was there for anyone to use, but the people developing Cocos2d just hadn't had time to make the transition yet.
 
 Secondly, even though I am a computer graphics major, back then the last graphics programming I had done was learning some Direct Draw at a previous job, and before that, immediate-mode desktop OpenGL in the early 00's at college. In the constantly evolving mobile arena of modern times, I really felt left behind. I needed to learn the present-day graphics programming idioms and techniques.
 
