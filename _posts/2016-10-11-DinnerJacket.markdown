@@ -33,7 +33,7 @@ Although the days of OpenGL (and Objective-C) seem to be numbered, I owe to my l
 
 But after that is done, I will port the framework to the Metal API, and at the same time rewrite it in Swift.
 
-Rest assured, the modernized version already exists as a stub on a private Github repository, and it is called MetalJacket.
+Rest assured, the modernized version already exists as a stub on a private Github repository, and it is called _MetalJacket_.
 
 
 [^1]: To be fair, this one is sort of a pun.
