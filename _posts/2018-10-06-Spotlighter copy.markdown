@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Spotlighter Privacy Policy"
+title:  "Spotlighter for iOS Privacy Policy"
 date:   2018-10-06 19:14:00 +0900
 categories: development 
 ---
