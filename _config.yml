@@ -17,6 +17,4 @@ github_username:  nicolas-miari
 
 # Build settings
 markdown: kramdown
-include: ['_pages', '_pages/apps/spotlighter']
-relative_permalinks: false
-# See: https://stackoverflow.com/a/18428572/433373
+include: ['_pages', '_pages/apps/spotlighter', '_pages/apps/icon-set-creator']

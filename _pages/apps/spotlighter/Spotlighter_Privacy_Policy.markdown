@@ -1,8 +1,9 @@
 ---
 layout: page
+title:  "Spotlighter for iOS Privacy Policy"
 permalink: "/apps/Spotlighter/Privacy-Policy/"
 published: true
-title:  "Spotlighter for iOS Privacy Policy"
+exclude: true
 ---
 
 ### Short Version
