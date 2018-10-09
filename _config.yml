@@ -17,3 +17,4 @@ github_username:  nicolas-miari
 
 # Build settings
 markdown: kramdown
+include: ['_pages', '_pages/apps/spotlighter', '_pages/apps/icon-set-creator']
