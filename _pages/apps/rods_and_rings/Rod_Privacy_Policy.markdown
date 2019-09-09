@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Spotlighter for iOS Privacy Policy"
+title:  "Rods & Rings Privacy Policy"
 permalink: "/apps/Rod/Privacy-Policy/"
 published: true
 exclude: true
