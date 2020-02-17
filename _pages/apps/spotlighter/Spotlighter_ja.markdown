@@ -3,6 +3,7 @@ layout: page
 title:  "Spotlighter for iOS"
 permalink: "/apps/Spotlighter/ja/"
 published: true
+exclude: true
 ---
 
 ### Spotlighter
