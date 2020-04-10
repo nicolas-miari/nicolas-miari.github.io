@@ -10,8 +10,8 @@ exclude: true
 
 Spotlighterを使って、自分の写真や画像の注目部分を長方形または楕円形で選択し、その周りの「背景」を暗くしたりぼやかしたりできます。
 
-<img src="/assets/images/spotlighter/screenshot_1@2x.png" width="300pt" height="534pt">
-<img src="/assets/images/spotlighter/screenshot_2@2x.png" width="300pt" height="534pt">
+<img src="/assets/images/spotlighter/1@2x.png" width="300pt" height="534pt">
+<img src="/assets/images/spotlighter/2@2x.png" width="300pt" height="534pt">
 
 加工した写真はアプリの中から各ソーシャルメディアや、メール添付などでもシェアできます。
 
