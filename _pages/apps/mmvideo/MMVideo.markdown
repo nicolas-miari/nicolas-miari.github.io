@@ -3,6 +3,7 @@ layout: page
 title:  "MMVideo for iOS"
 permalink: "/apps/MMVideo/"
 published: true
+exclude: true
 ---
 
 ### MMVideo for iOS
