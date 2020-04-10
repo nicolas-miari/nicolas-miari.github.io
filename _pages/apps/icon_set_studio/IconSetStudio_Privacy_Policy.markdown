@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Icon Set Studio Privacy Policy"
+title:  "Icon Set Studio - Privacy Policy"
 permalink: "/apps/IconSetStudio/Privacy-Policy/"
 published: true
 exclude: true

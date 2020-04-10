@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Kanji Checker Privacy Policy"
+title:  "Kanji Checker - Privacy Policy"
 permalink: "/apps/KanjiChecker/Privacy-Policy/"
 published: true
 exclude: true

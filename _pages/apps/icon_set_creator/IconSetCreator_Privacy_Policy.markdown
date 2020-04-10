@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Icon Set Creator Privacy Policy"
+title:  "Icon Set Creator - Privacy Policy"
 permalink: "/apps/IconSetCreator/Privacy-Policy/"
 published: true
 exclude: true
