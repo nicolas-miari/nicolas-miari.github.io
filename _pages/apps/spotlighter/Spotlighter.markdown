@@ -1,11 +1,11 @@
 ---
 layout: page
-title:  "Spotlighter for iOS"
+title:  "Spotlighter"
 permalink: "/apps/Spotlighter/"
 published: true
 ---
 
-### Spotlighter for iOS
+#### Image Editing App and Photos Extension for iOS
 
 Spotlighter is a small photo-editing app for iOS that lets you highlight a custom region 
 within an image by applying a spotlight-like effect: the background is dimmed down, and

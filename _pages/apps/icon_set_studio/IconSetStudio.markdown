@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Icon Set Studio for macOS"
+title:  "Icon Set Studio"
 permalink: "/apps/IconSetStudio/"
 published: true
 ---
@@ -15,6 +15,7 @@ directory each time, Icon Set Studio is a document-based cocoa app: you create a
 directly into your Xcode project’s asset catalog directory, so you don’t need to copy files 
 manually.
  
+#### Available for macOS 10.14 ("Mojave") and above.
 
 #### Support
 For bug reports and feature request, [contact me on Twitter (@nicolasmiari)](https://twitter.com/nicolasmiari).

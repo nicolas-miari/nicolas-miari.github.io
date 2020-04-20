@@ -5,7 +5,7 @@ permalink: "/apps/FunWithGroups/"
 published: true
 ---
 
-### Fun with Groups is mathematics for kids but with a twist. 
+### Fun with Groups is mathematics for kids, but with a twist. 
 
 
 Instead of the tired reinforcing of arithmetic and other elementary mathematics that kids 
@@ -23,7 +23,7 @@ and [symmetric groups](https://en.wikipedia.org/wiki/Symmetric_group), the
 [dihedral groups](https://en.wikipedia.org/wiki/Dihedral_group), and the 
 [Klein four-group](https://en.wikipedia.org/wiki/Klein_four-group). 
 
-#### _Available on both iOS and macOS._
+#### Available on iOS 12 and above, and macOS 10.13 ("High Sierra") and above.
 
 #### Support
 For bug reports and feature request, [contact me on Twitter (@nicolasmiari)](https://twitter.com/nicolasmiari).

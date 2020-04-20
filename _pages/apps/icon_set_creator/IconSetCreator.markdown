@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Icon Set Creator for macOS"
+title:  "Icon Set Creator"
 permalink: "/apps/IconSetCreator/"
 published: true
 ---
@@ -18,6 +18,7 @@ visual results in terms of detail, pixel alignment, etc.
 But if you just want to quickly fill all the "buckets" in the AppIcon entry of your asset 
 catalog, this simple tool can help you. 
 
+#### Available for macOS _El Capitan_ (10.11) and above.
 
 #### Support
 For bug reports and feature request, [contact me on Twitter (@nicolasmiari)](https://twitter.com/nicolasmiari).

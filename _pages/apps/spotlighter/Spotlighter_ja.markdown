@@ -6,7 +6,7 @@ published: true
 exclude: true
 ---
 
-### Spotlighter
+### 写真加工アプリ＆フォトライブラリー拡張機能（iOS）
 
 Spotlighterを使って、自分の写真や画像の注目部分を長方形または楕円形で選択し、その周りの「背景」を暗くしたりぼやかしたりできます。
 
