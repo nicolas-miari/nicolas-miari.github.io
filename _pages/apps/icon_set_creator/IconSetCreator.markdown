@@ -5,7 +5,7 @@ permalink: "/apps/IconSetCreator/"
 published: true
 ---
 
-![App Icon](/assets/images/IconSetCreator-512.png){: .center-image }
+![App Icon](/assets/images/IconSetCreator.png){: .center-image }
 
 Icon Set Creator lets you quickly create icon assets for your apps: Just drag your 
 high-resolution artwork (preferably, a PNG file at 1024x1024) into the app's window, 
