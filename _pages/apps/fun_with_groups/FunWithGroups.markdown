@@ -1,13 +1,12 @@
 ---
 layout: page
-title:  "Fun with Groups for macOS and iOS"
+title:  "Fun with Groups"
 permalink: "/apps/FunWithGroups/"
 published: true
 ---
 
-### Fun with Groups
+### Fun with Groups is mathematics for kids but with a twist. 
 
-Fun with Groups is mathematics for kids but with a twist. 
 
 Instead of the tired reinforcing of arithmetic and other elementary mathematics that kids 
 already learn at school, this app takes the novel approach of familiarizing children with 
@@ -23,6 +22,8 @@ The app presents children with interactive representations of the first few [cyc
 and [symmetric groups](https://en.wikipedia.org/wiki/Symmetric_group), the 
 [dihedral groups](https://en.wikipedia.org/wiki/Dihedral_group), and the 
 [Klein four-group](https://en.wikipedia.org/wiki/Klein_four-group). 
+
+#### _Available on both iOS and macOS._
 
 #### Support
 For bug reports and feature request, [contact me on Twitter (@nicolasmiari)](https://twitter.com/nicolasmiari).
